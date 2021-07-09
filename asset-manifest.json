@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/placementasserter-frontend/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/placementasserter-frontend/static/js/main.c20469a4.chunk.js",
+    "main.js.map": "/placementasserter-frontend/static/js/main.c20469a4.chunk.js.map",
+    "runtime-main.js": "/placementasserter-frontend/static/js/runtime-main.d2c6ca3e.js",
+    "runtime-main.js.map": "/placementasserter-frontend/static/js/runtime-main.d2c6ca3e.js.map",
+    "static/js/2.7d28de35.chunk.js": "/placementasserter-frontend/static/js/2.7d28de35.chunk.js",
+    "static/js/2.7d28de35.chunk.js.map": "/placementasserter-frontend/static/js/2.7d28de35.chunk.js.map",
+    "static/js/3.ff6eb960.chunk.js": "/placementasserter-frontend/static/js/3.ff6eb960.chunk.js",
+    "static/js/3.ff6eb960.chunk.js.map": "/placementasserter-frontend/static/js/3.ff6eb960.chunk.js.map",
+    "index.html": "/placementasserter-frontend/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/placementasserter-frontend/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7d28de35.chunk.js.LICENSE.txt": "/placementasserter-frontend/static/js/2.7d28de35.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/placementasserter-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2c6ca3e.js",
+    "static/js/2.7d28de35.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c20469a4.chunk.js"
+  ]
+}
