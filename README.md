@@ -1,3 +1,7 @@
+![CI/CD](https://github.com/winstonpais/placementasserter-frontend/workflows/React%20CI/CD/badge.svg)
+[![codecov](https://codecov.io/gh/winstonpais/placementasserter-frontend/branch/main/graph/badge.svg)](https://codecov.io/gh/winstonpais/placementasserter-frontend)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
