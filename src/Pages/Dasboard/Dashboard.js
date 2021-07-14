@@ -9,7 +9,7 @@ const Dashboard = () => {
         <NavBar/>
         <div style={{backgroundColor:"#272727"}}>
             <div>
-                <h1 style={{color:"white",paddingTop:"2%",paddingBottom:"2%",paddingLeft:"9%"}}>Welcome Infosys</h1>
+                <h1 style={{color:"white",paddingTop:"2%",paddingBottom:"2%",paddingLeft:"9%"}}>Welcome People Gamut</h1>
             </div>
         </div>
         <div className="container" style={{marginRight:"2%",marginTop:"3%"}}>
