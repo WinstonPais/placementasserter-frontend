@@ -1,0 +1,12 @@
+.mybtn {
+    color: aliceblue !important;
+    background-color: grey !important;
+    margin: 3px;
+    padding-top: 0;
+    padding-bottom: 0;
+    
+}
+.joblist{
+    top:35%;
+    left:7%;
+}

@@ -1,0 +1,27 @@
+.OuterProfileBody {
+    width: 100%;
+    background: linear-gradient(45deg, #29293a 0%, #020203 100%);
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #272727;
+}
+
+.whiteText{
+    color: rgb(224, 224, 224);
+}
+
+.marginTopDetails {
+    margin-top: 50px;
+}
+
+.greyText{
+    color: #9a9a9c;
+}
+
+.marginBottom{
+    margin-bottom: 0;
+}
+
+.DetailsRow{
+    display: inline-block;
+}
+

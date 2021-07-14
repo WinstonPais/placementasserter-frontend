@@ -1,0 +1,46 @@
+[
+    {
+        "College" : "College A",
+        "hire" : "25"
+    },
+    {
+        "College" : "College B",
+        "hire" : "21"
+    },
+    {
+        "College" : "College C",
+        "hire" : "20"
+    },
+    {
+        "College" : "College D",
+        "hire" : "17"
+    },
+    {
+        "College" : "College E",
+        "hire" : "14"
+    },
+    {
+        "College" : "College F",
+        "hire" : "13"
+    },
+    {
+        "College" : "College G",
+        "hire" : "12"
+    },
+    {
+        "College" : "College H",
+        "hire" : "10"
+    },
+    {
+        "College" : "College I",
+        "hire" : "9"
+    },
+    {
+        "College" : "College J",
+        "hire" : "5"
+    },
+    {
+        "College" : "College K",
+        "hire" : "3"
+    }
+]
